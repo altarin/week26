@@ -1,0 +1,18 @@
+.hero-card{
+    width: 300px;
+    margin:10px;
+    border: 1px solid blue;
+}
+.hero-card img{
+    width: 100%;
+    height: 400px;
+}
+.hero-name{
+    font-size: 20px;
+    font-weight: bold;
+}
+.hero-universe{
+    color:blue;
+    font-weight: bold;
+    font-size: 18px;
+}
