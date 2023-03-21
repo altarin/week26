@@ -8,7 +8,7 @@ function Hero(props) {
             <div className="hero-alterego">Альтер эго: {props.alterego}</div>
             <div className="hero-activity">Деятельность: {props.activity}</div>
             <div className="hero-superpower">Суперсила: {props.superpower}</div>
-            <img src={props.img}></img>
+            <img src={props.img} alt={props.alt}></img>
         </div >
     );
 }
